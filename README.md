@@ -17,7 +17,7 @@ kubectl get svc
 3. exposed my application using k8s cluster 
  http://18.208.206.206:31058/
 
- full devops workflow end-to-end
+ full devops workflow end-to-end :
  Code → Build (CI/CD) → Push to Docker Hub → Deploy to Kubernetes → Access the live app ✅
 
 INTERVIEW QUSETION AND ANSWERS AS MENTION IN THE TASK
