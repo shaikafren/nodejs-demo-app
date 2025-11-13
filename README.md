@@ -15,7 +15,7 @@ kubectl apply -f service.yaml
 kubectl get pods
 kubectl get svc
 3. exposed my application using k8s cluster 
- http://http://18.208.206.206:31058/
+ http://18.208.206.206:31058/
 
  full devops workflow end-to-end
  Code → Build (CI/CD) → Push to Docker Hub → Deploy to Kubernetes → Access the live app ✅
